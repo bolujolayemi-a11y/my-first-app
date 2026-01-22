@@ -1,0 +1,14 @@
+1. Arrow Function: A compact alternative to traditional functions.
+   Example: const greet = () => "Hello!";
+
+2. Destructuring: Unpacking values from arrays or properties from objects.
+   Example: const { name } = { name: "Bolu", age: 20 };
+
+3. Spread Operator (...): Used to copy contents of an array or object.
+   Example: const newArr = [...oldArr, 4];
+
+4. Ternary Operator: A one-line if-else.
+   Example: age >= 18 ? "Adult" : "Minor";
+
+5. Map Method: Creates a new array by transforming every element.
+   It creates: ["Hello Alice", "Hello Bob"].
